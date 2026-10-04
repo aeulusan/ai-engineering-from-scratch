@@ -46,6 +46,7 @@ models/
 checkpoints/
 wandb/
 mlruns/
+# Model checkpoint files (keep training outputs out of Git)
 *.pt
 *.pth
 *.onnx

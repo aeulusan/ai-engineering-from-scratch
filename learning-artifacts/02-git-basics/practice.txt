@@ -1,0 +1,10 @@
+Git practice
+
+This file was created on the my-progress branch for the Git basics exercise.
+Workflow: git status, git add, git commit, git push.
+
+History examples reviewed:
+5f544820 Add lesson: dev environment setup (Phase 0)
+a907af25 Add lesson: linear algebra intuition (Phase 1)
+
+The existing root .gitignore excludes *.pt, *.pth, and *.safetensors.
